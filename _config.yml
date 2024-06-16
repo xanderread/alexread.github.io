@@ -21,7 +21,7 @@ repository               : "xanderread/alexread.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "alexoutside.png"
   name             : "Alex Read"
   pronouns         : # example: "she/her"  
   bio              : "Recent Computer Science Graduate from Durham University, interested in Software Engineering, AI, Cyber Security, Web Dev and Entrepreneurship."
