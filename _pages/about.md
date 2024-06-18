@@ -9,7 +9,7 @@ redirect_from:
   - /projects/
 ---
 
-Hi 👋, I'm Alex, a passionate software developer interested in machine learning, cybersecurity, web development, and all things tech. I recently graduated from [Durham University](https://www.durham.ac.uk/) with a First-Class Honours BSc in Computer Science. 
+Hi 👋, I'm Alex, a passionate software developer interested in machine learning, cybersecurity, web development, and all things tech. I recently graduated from [Durham University](https://www.durham.ac.uk/) with a First-Class Honours BSc in Computer Science, achieving one of the highest marks in my cohort.
 
 Over the past two years, alongside my studies, I have been working for [Revector](http://revector.com/), on the Raven Project, developing IMSI catchers and WiFi intelligence solutions for search and rescue and counterterrorism operations. Additionally, I have undertaken several freelance web development projects and interned multiple times within HMG, focusing on cybersecurity work. 
 
