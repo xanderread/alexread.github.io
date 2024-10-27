@@ -15,6 +15,7 @@ Over the past two years, alongside my studies, I have been working for [Revector
 
 I have participated and won funding in several hackathon and startup competitions:
 
+- 3rd Place - [Encode London Hackathon](https://www.encode.club/) (Won $5000 ICP), 2024
 - 3rd Place - [Game Changer Startup Competition COP28](https://www.linkedin.com/posts/aislinn-de-buitleir-139645214_this-weekend-was-the-game-changer-entrepreneurial-activity-7125081514555404288-wd99?utm_source=share&utm_medium=member_desktop), 2024
 - 1st Place - [Cyber 9/12 Strategy Challenge](https://www.linkedin.com/posts/activity-7034659955408293888-yC9P?utm_source=share&utm_medium=member_desktop), 2023
 - Winner - [Durhack](https://durhack.com/) Domain.com challenge, 2022
