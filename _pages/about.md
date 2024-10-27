@@ -29,55 +29,55 @@ Some recent projects I have worked on over the last few years, some are personal
 
 <div class="project">
   <img src="_pages/proofofpaymentlogo.gif" class="project-thumbnail">
-    <div class="project-info">
-      <strong><a href="https://github.com/xanderread/proof-of-paint"">Proof of Paint - Encode London Hackathon</a></strong>
-      <p>Blockchain / dApp / Won $5000 ICP prize</p>
-    </div>
+  <div class="project-info">
+    <strong><a href="https://github.com/xanderread/proof-of-paint">Proof of Paint - Encode London Hackathon</a></strong>
+    <p>Blockchain / dApp / Won $5000 ICP prize</p>
   </div>
+</div>
 
-  <div class="project">
-    <div class="project-info">
-      <strong><a href="https://github.com/xanderread/diss">A Lightweight Real-Time Person Detection System for Aerial Search and Rescue</a></strong>
-      <p>Deep Learning / Computer Vision</p>
-    </div>
+<div class="project">
+  <div class="project-info">
+    <strong><a href="https://github.com/xanderread/diss">A Lightweight Real-Time Person Detection System for Aerial Search and Rescue</a></strong> 
+    <p>Deep Learning / Computer Vision</p>
   </div>
+</div>
 
-  <div class="project">
-    <img src="_pages/rl.gif" class="project-thumbnail">
-    <div class="project-info">
-      <strong><a href="https://github.com/xanderread/ReinforcementLearning">Matching the highest score in Open AI's Bipedal Walker</a></strong>
-      <p>Reinforcement Learning</p>
-    </div>
+<div class="project">
+  <img src="_pages/rl.gif" class="project-thumbnail">
+  <div class="project-info">
+    <strong><a href="https://github.com/xanderread/ReinforcementLearning">Matching the highest score in Open AI's Bipedal Walker</a></strong>
+    <p>Reinforcement Learning</p>
   </div>
+</div>
 
-  <div class="project">
-    <img src="_pages/diff.gif" class="project-thumbnail">
-    <div class="project-info">
-      <strong><a href="https://github.com/xanderread/DeepLearning">Diffusion Model From Scratch < 1mill Parameters</a></strong>
-      <p>Generative AI</p>
-    </div>
+<div class="project">
+  <img src="_pages/diff.gif" class="project-thumbnail">
+  <div class="project-info">
+    <strong><a href="https://github.com/xanderread/DeepLearning">Diffusion Model From Scratch < 1mill Parameters</a></strong>
+    <p>Generative AI</p>
   </div>
+</div>
 
-  <div class="project">
-    <div class="project-info">
-      <strong><a href="https://github.com/xanderread/Cryptography">Implementing & Cracking LWE Encryption</a></strong>
-      <p>Post-Quantum Cryptography</p>
-    </div>
+<div class="project">
+  <div class="project-info">
+    <strong><a href="https://github.com/xanderread/Cryptography">Implementing & Cracking LWE Encryption</a></strong>
+    <p>Post-Quantum Cryptography</p>
   </div>
+</div>
 
-  <div class="project">
-    <div class="project-info">
-      <strong><a href="https://github.com/xanderread/BookBuddy">Book Buddy - Book Recommendation System</a></strong>
-      <p>Graph Neural Networks / Recommender Systems</p>
-    </div>
+<div class="project">
+  <div class="project-info">
+    <strong><a href="https://github.com/xanderread/BookBuddy">Book Buddy - Book Recommendation System</a></strong>
+    <p>Graph Neural Networks / Recommender Systems</p>
   </div>
+</div>
 
-  <div class="project">
-    <div class="project-info">
-      <strong><a href="https://haii2023.vercel.app/">Human-AI Interaction Diary</a></strong>
-      <p>Web App, Svelte, Svelte-Kit</p>
-    </div>
+<div class="project">
+  <div class="project-info">
+    <strong><a href="https://haii2023.vercel.app/">Human-AI Interaction Diary</a></strong>
+    <p>Web App, Svelte, Svelte-Kit</p>
   </div>
+</div>
 
 </div>
 
