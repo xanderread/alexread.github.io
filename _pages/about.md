@@ -28,9 +28,10 @@ Some recent projects I have worked on over the last few years, some are personal
 <div class="project-grid">
 
 <div class="project">
+  <img src="_pages/proofofpaymentlogo.gif" class="project-thumbnail">
     <div class="project-info">
       <strong><a href="https://github.com/xanderread/proof-of-paint"">Proof of Paint - Encode London Hackathon</a></strong>
-      <p>Won $5000 ICP prize / Blockchain / dApp</p>
+      <p>Blockchain / dApp / Won $5000 ICP prize</p>
     </div>
   </div>
 
