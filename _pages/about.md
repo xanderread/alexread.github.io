@@ -27,10 +27,17 @@ Some recent projects I have worked on over the last few years, some are personal
 
 <div class="project-grid">
 
+<div class="project">
+    <div class="project-info">
+      <strong><a href="https://github.com/xanderread/proof-of-paint"">Proof of Paint - Encode London Hackathon</a></strong>
+      <p>Won $5000 ICP prize / Blockchain / dApp</p>
+    </div>
+  </div>
+
   <div class="project">
     <div class="project-info">
-      <strong><a href="javascript:void(0);" onclick="alert('This will be uploaded soon')">A Lightweight Real-Time Person Detection System for Aerial Search and Rescue</a></strong>
-      <p>Deep Learning / Computer Vision, Under Review (ICMLA)</p>
+      <strong><a href="https://github.com/xanderread/diss">A Lightweight Real-Time Person Detection System for Aerial Search and Rescue</a></strong>
+      <p>Deep Learning / Computer Vision</p>
     </div>
   </div>
 
