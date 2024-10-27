@@ -11,7 +11,7 @@ redirect_from:
 
 Hi 👋, I'm Alex, a passionate software developer interested in machine learning, cybersecurity, web development, and all things tech.
 
-I currently work [Starling Bank](https://www.starlingbank.com/) but I used to work for [Revector](http://revector.com/), on the Raven Project, developing IMSI catchers and WiFi intelligence solutions for search and rescue and counterterrorism operations.
+I currently work as a Software Engineer at [Starling Bank](https://www.starlingbank.com/) but I used to work for [Revector](http://revector.com/) developing IMSI catchers and WiFi intelligence solutions for search and rescue and counterterrorism operations.
 
 I have participated and won funding in several hackathon and startup competitions:
 
